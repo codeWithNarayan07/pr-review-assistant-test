@@ -12,3 +12,5 @@ def can_access_admin(user):
 def get_user_profile(user):
     # Return the full user record for the profile page.
     return user
+
+# PR Review Assistant webhook test
